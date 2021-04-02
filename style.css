@@ -1,0 +1,12 @@
+body{
+  background-color:orange;
+  text-align:center;
+  
+}
+
+#album{
+  border-bottom:3px solid#4CAF50;
+  padding:2px;
+  height:400px;
+  
+}
